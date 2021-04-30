@@ -14,21 +14,21 @@ The above visualization contains the number of understood LGBTQ+ bars per zipcod
 
 
 **The following zipcodes correspond the to the following cities (_in order_):**
-94114 = Castro District (San Francisco)
-90069 = West Hollywood (Los Angeles)
-98122 = Minor/Central Area (Seattle)
-10014 = West Village/Meatpacking District (New York City)
-94103 = South of Market (San Francisco)
-70116 = Treme (New Orleans)
-19107 = Washington Square (Philadelphia)
-60657 = Lakeview (Chicago)
-30309 = Sherwood Forest (Atlanta)
-10036 = Midtown West (New York City)
-10019 = Upper West Side (New York City)
-77006 = Neartown (Houston)
-30324 = Atlanta
-10011 = Chelsea (New York City)
-20009 = Kalorama Heights (Washington D.C.)
+**94114 = Castro District** (San Francisco) \
+**90069 = West Hollywood** (Los Angeles) \
+**98122 = Minor/Central Area** (Seattle) \
+**10014 = West Village/Meatpacking District** (New York City) \
+**94103 = South of Market** (San Francisco) \
+**70116 = Treme** (New Orleans) \
+**19107 = Washington Square** (Philadelphia) \
+**60657 = Lakeview** (Chicago) \
+**30309 = Sherwood Forest** (Atlanta) \
+**10036 = Midtown West** (New York City) \
+**10019 = Upper West Side** (New York City) \
+**77006 = Neartown** (Houston) \
+**30324 = Atlanta** \
+**10011 = Chelsea** (New York City) \
+**20009 = Kalorama Heights** (Washington D.C.) \
 
 As we can see, there are clusters of LGBTQ+ bars in major cities, explaining why queer and trans folks often move out of rural areas into large cities – cities are home to the biggest LGBTQ+ communities.
 
