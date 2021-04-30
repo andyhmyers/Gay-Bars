@@ -1,6 +1,6 @@
 ## Bars in Gay Friendly Cities
 
-by Andy Myers
+**by Andy Myers**
 
 This dataset, from [data.world](https://data.world/the-pudding/gayborhoods) includes information concerning the demographics of cities containing a concentration of LGBTQ+ identifying folks, specifically showing patterns in martital status, bars and taxes.
 
@@ -10,4 +10,28 @@ This dataset, from [data.world](https://data.world/the-pudding/gayborhoods) incl
 
 
 
-The above visualization contains the number of understood LGBTQ+ bars per zipcode, specifically showing the top 15 zipcodes in the United States with the most amount of gay bars. While the source of the data unfortunately does not include city names, the top 4 zipcodes translate to these cities in order: San Francisco (17 bars), West Hollywood (15 bars), Seattle (12 bars), and New York (10 bars). Locating places to drink may seem insignificant on the surface, but for the LGBTQ+ community, it often serves as important information. Many queer/trans folks seeking to move to a more LGBTQ+ friendly area frequently take into account the number of gay bars, as those serve as central safe spaces to find others in the community.
+The above visualization contains the number of understood LGBTQ+ bars per zipcode, specifically showing the top 15 zipcodes in the United States with the most amount of gay bars. While the source of the data unfortunately does not include city names, the top 4 zipcodes translate to these cities in order: San Francisco (_17 bars_), West Hollywood (_15 bars_), Seattle (_12 bars_), and New York (_10 bars_). Locating places to drink may seem insignificant on the surface, but for the LGBTQ+ community, it often serves as important information. Many queer/trans folks seeking to move to a more LGBTQ+ friendly area frequently take into account the number of gay bars, as those serve as central safe spaces to find others in the community.
+
+
+**The following zipcodes correspond the to the following cities (_in order_):**
+94114 = Castro District (San Francisco)
+90069 = West Hollywood (Los Angeles)
+98122 = Minor/Central Area (Seattle)
+10014 = West Village/Meatpacking District (New York City)
+94103 = South of Market (San Francisco)
+70116 = Treme (New Orleans)
+19107 = Washington Square (Philadelphia)
+60657 = Lakeview (Chicago)
+30309 = Sherwood Forest (Atlanta)
+10036 = Midtown West (New York City)
+10019 = Upper West Side (New York City)
+77006 = Neartown (Houston)
+30324 = Atlanta
+10011 = Chelsea (New York City)
+20009 = Kalorama Heights (Washington D.C.)
+
+As we can see, there are clusters of LGBTQ+ bars in major cities, explaining why queer and trans folks often move out of rural areas into large cities – cities are home to the biggest LGBTQ+ communities.
+
+Although discussing cities outside the U.S., here is a video explaing the thought process that many queer/trans folks go through when choosing a location to live. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZAkzE5VKF8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
