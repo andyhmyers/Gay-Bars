@@ -13,7 +13,8 @@ This dataset, from [data.world](https://data.world/the-pudding/gayborhoods) incl
 The above visualization contains the number of understood LGBTQ+ bars per zipcode, specifically showing the top 15 zipcodes in the United States with the most amount of gay bars. While the source of the data unfortunately does not include city names, the top 4 zipcodes translate to these cities in order: San Francisco (_17 bars_), West Hollywood (_15 bars_), Seattle (_12 bars_), and New York (_10 bars_). Locating places to drink may seem insignificant on the surface, but for the LGBTQ+ community, it often serves as important information. Many queer/trans folks seeking to move to a more LGBTQ+ friendly area frequently take into account the number of gay bars, as those serve as central safe spaces to find others in the community.
 
 
-**The following zipcodes correspond the to the following cities (_in order_):**
+**The following zipcodes correspond the to the following cities (_in order_):** \
+
 **94114 = Castro District** (San Francisco) \
 **90069 = West Hollywood** (Los Angeles) \
 **98122 = Minor/Central Area** (Seattle) \
