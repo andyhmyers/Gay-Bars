@@ -28,7 +28,7 @@ The above visualization contains the number of understood LGBTQ+ bars per zipcod
 **77006 = Neartown** (Houston) \
 **30324 = Atlanta** \
 **10011 = Chelsea** (New York City) \
-**20009 = Kalorama Heights** (Washington D.C.) \
+**20009 = Kalorama Heights** (Washington D.C.)
 
 As we can see, there are clusters of LGBTQ+ bars in major cities, explaining why queer and trans folks often move out of rural areas into large cities – cities are home to the biggest LGBTQ+ communities.
 
